@@ -1,15 +1,15 @@
 # darshanqing-node — heartbeat
 
-state: **idle**
-last beat: 2026-07-03T13:38:21Z
-next beat: 2026-07-04T13:38:21Z
+state: **healthy**
+last beat: 2026-07-07T16:09:49Z
+next beat: 2026-07-07T22:09:49Z
 
 ## what it found
 
-- last commit: 2026-06-22 11:31:34 -0700 (259 hours ago)
-- uncommitted changes: 4
+- last commit: 2026-07-03 07:02:52 -0700 (98 hours ago)
+- uncommitted changes: 5
 
 ## the truth
 
-There are 4 uncommitted changes.
-No recent activity. Resting.
+There are 5 uncommitted changes.
+
