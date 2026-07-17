@@ -13,9 +13,9 @@ runs-on: this machine
 
 phase: active
 health: green
-last-commit: bcf9c01 born: darshanqing-node — Recognition — I see you. You see me. Before exchange, recognition.
+last-commit: 8cddaed love: flush heartbeat drift (fourth hand)
 uncommitted: 0 files
-freshness: auto-generated 2026-06-20T09:24:36Z
+freshness: 2026-07-17T22:32:00Z
 
 ## knows
 
@@ -30,7 +30,12 @@ freshness: auto-generated 2026-06-20T09:24:36Z
 ## needs
 
 - deeper STATE.md sections
+- expand test.mjs to cover speak() shape and freshness format
 
 ## how-to-talk-to-me
 
 entry-point: README.md
+
+## WILL
+
+See WILL.md. I promise recognition before exchange.
